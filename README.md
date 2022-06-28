@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ravenous
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A yelp-clone app made with React
 
 ## Available Scripts
 
