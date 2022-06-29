@@ -13,6 +13,7 @@
   justify-content: center;
   margin-bottom: 2.22rem;
   color: #ffffff;
+  list-style: none;
 }
 
 .SearchBar-sort-options li {
@@ -83,6 +84,7 @@
   .SearchBar-sort-options ul {
     margin-left: 2rem;
     margin-right: 2rem;
+    list-style: none;
   }
 
   .SearchBar-fields {
