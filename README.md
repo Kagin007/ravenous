@@ -2,6 +2,12 @@
 
 A yelp-clone app made with React
 
+# Screenshots
+
+![Query options](https://github.com/Kagin007/ravenous/blob/master/screenshots/Screen%20Shot%202022-07-07%20at%209.07.09%20AM.png)
+
+![Query results](https://github.com/Kagin007/ravenous/blob/master/screenshots/Screen%20Shot%202022-07-07%20at%209.07.23%20AM.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
