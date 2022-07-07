@@ -4,8 +4,11 @@ A yelp-clone app made with React
 
 # Screenshots
 
+Query Options
 ![Query options](https://github.com/Kagin007/ravenous/blob/master/screenshots/Screen%20Shot%202022-07-07%20at%209.07.09%20AM.png)
 
+...
+Query Results
 ![Query results](https://github.com/Kagin007/ravenous/blob/master/screenshots/Screen%20Shot%202022-07-07%20at%209.07.23%20AM.png)
 
 ## Available Scripts
